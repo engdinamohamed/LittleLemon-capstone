@@ -1,4 +1,4 @@
-# Little Lemon Restaurant's online reservation system
+# Little Lemon Restaurant's online reservation website
 
 ## Description
 
